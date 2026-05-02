@@ -38,4 +38,4 @@ This project is great for beginners to understand loops, conditionals, and rando
 3. Run the script:
 
 ```bash
-python dice_game.py
+python dice_rolling_game.py
